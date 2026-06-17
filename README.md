@@ -1,4 +1,4 @@
-🧠# ANN-Powered Medical Imaging: Brain Tumor Classification
+#ANN-Powered Medical Imaging: Brain Tumor Classification
 
 📖 Overview
 
