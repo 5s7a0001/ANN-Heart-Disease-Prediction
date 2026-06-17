@@ -1,4 +1,5 @@
-🧠 ANN-Powered Medical Imaging: Brain Tumor Classification
+🧠# ANN-Powered Medical Imaging: Brain Tumor Classification
+
 📖 Overview
 
 Brain tumors are among the most critical neurological disorders, requiring accurate and timely diagnosis for effective treatment. Traditional MRI scan analysis relies heavily on radiologists and can be time-consuming, subjective, and prone to human error.
